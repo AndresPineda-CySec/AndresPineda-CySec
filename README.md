@@ -6,7 +6,7 @@
 
 - <b>[PowerShell Incident Response Script](https://github.com/AndresPineda-CySec/PowerShell-Incident-Response-Script)</b>
 
-- <b>[Python Port Scanner]()</b>
+- <b>[Python Port Scanner](https://github.com/AndresPineda-CySec/Python-Port-Scanner)</b>
 
 
 <h2>📃 Certifications:</h2>
