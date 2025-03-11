@@ -2,7 +2,9 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-- <b>PowerShell</b>
+<h3>PowerShell</h3>
+
+- <b>[PowerShell Incident Response Script](https://github.com/AndresPineda-CySec/PowerShell-Incident-Response-Script)</b>
 
 - <b>Python</b>
 
