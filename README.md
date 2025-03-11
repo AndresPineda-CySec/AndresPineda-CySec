@@ -2,13 +2,9 @@
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
-<h3>PowerShell</h3>
-
+<h3>Programing and Scripting </h3>
 - <b>[PowerShell Incident Response Script](https://github.com/AndresPineda-CySec/PowerShell-Incident-Response-Script)</b>
-
-<h3>Python<h3>
-
-- <b>[Port Scanner]()</b>
+- <b>[Python Port Scanner]()</b>
 
 
 <h2>📃 Certifications:</h2>
