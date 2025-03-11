@@ -6,7 +6,7 @@
 
 - <b>[PowerShell Incident Response Script](https://github.com/AndresPineda-CySec/PowerShell-Incident-Response-Script)</b>
 
-- <b>Python</b>
+<h3>Python<h3>
 
 
 <h2>📃 Certifications:</h2>
