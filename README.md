@@ -8,6 +8,10 @@
 
 - <b>[Python Port Scanner](https://github.com/AndresPineda-CySec/Python-Port-Scanner)</b>
 
+<h3>Network Analysis</h3>
+
+- <b>[WireShark PCAP Analysis]()</b>
+
 
 <h2>📃 Certifications:</h2>
 
