@@ -14,6 +14,8 @@
 
 <h3>Home Lab and Network Security</h3>
 
+- <b>[Cowrie and Splunk: Honeypot Threat Analysis]()</b>
+
 
 <h2>📃 Certifications:</h2>
 
