@@ -28,7 +28,7 @@
 - <b>CompTIA PenTest+</b>
 - <b>CompTIA Project+</b>
 - <b>ITIL Foundations Certificate</b>
-- <b>Linux Foundations Certificate</b>
+- <b>Linux Essentials Certificate</b>
 
 
 <h2> 🤳 Connect with me:</h2>
