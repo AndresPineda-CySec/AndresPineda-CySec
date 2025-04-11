@@ -8,6 +8,9 @@
 
 - <b>[Python Port Scanner](https://github.com/AndresPineda-CySec/Python-Port-Scanner)</b>
 
+<h3>Database Administration</h3>
+<!-- SQL something for reddit -->
+
 <h3>Network Analysis</h3>
 
 - <b>[WireShark PCAP Analysis 1](https://github.com/AndresPineda-CySec/WireShark-PCAP-Analysis-1)</b>
@@ -17,6 +20,8 @@
 - <b>[Cowrie and Splunk: Honeypot Threat Analysis](https://github.com/AndresPineda-CySec/Cowrie-and-Splunk-Honeypot-Threat-Analysis)</b>
 
 <h3>Malware Analysis and Reverse Engineering</h3>
+<!-- Ghidra reverse engineering
+aida reverse engineeringcrowd strike job) -->
 
 
 <h2>📃 Certifications:</h2>
