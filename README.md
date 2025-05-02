@@ -8,8 +8,6 @@
 
 - <b>[Python Port Scanner](https://github.com/AndresPineda-CySec/Python-Port-Scanner)</b>
 
-<h3>Database Administration</h3>
-<!-- SQL something for reddit -->
 
 <h3>Network Analysis</h3>
 
