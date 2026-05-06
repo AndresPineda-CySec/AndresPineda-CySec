@@ -1,6 +1,6 @@
 <h1>Hi, I'm Andres Pineda! </h1>
 
-<h3>Welcome to my Portfolio </h3>
+<b>Welcome to my Portfolio </b>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
