@@ -17,8 +17,8 @@
 
 - <b>[Cowrie and Splunk: Honeypot Threat Analysis](https://github.com/AndresPineda-CySec/Cowrie-and-Splunk-Honeypot-Threat-Analysis)</b>
 
-<h3>Malware Analysis and Reverse Engineering</h3>
-- <b>coming soon</b>
+<!--<h3>Malware Analysis and Reverse Engineering</h3>
+- <b>coming soon</b> -->
 
 
 <h2>📃 Certifications:</h2>
