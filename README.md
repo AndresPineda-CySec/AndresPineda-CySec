@@ -21,7 +21,7 @@
 
 <h3>Active Directory</h3>
 
-- <b>[Configuring Splunk Forwarders for Active Directory Security Monitoring](https://github.com/AndresPineda-CySec/Cowrie-and-Splunk-Honeypot-Threat-Analysis)</b>
+- <b>[Configuring Splunk Forwarders for Active Directory Security Monitoring](https://github.com/AndresPineda-CySec/Configuring-Splunk-Forwarders-for-Active-Directory-Security-Monitoring)</b>
 
 <!--<h3>Malware Analysis and Reverse Engineering</h3>
 - <b>coming soon</b> -->
